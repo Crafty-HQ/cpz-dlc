@@ -1,0 +1,45 @@
+"C:\Program Files (x86)\Steam\steamapps\common\SourceFilmmaker\game\sfm.exe" +sv_lan 1 -sfm_resolution 1080 -w 1920 -h 1080 -useqtport -tools -dev -sw +mat_hdr_level 3 +mat_queue_mode 0 -game usermod -insecure
+
+c:\program files (x86)\steam\steamapps\common\sourcefilmmaker\game\usermod\elements\sessions\cpz\dlc\dlc office.dmx#0
+
+1920x1080 @24.00 fps
+motion blur samples:    1
+depth of field samples: 256
+
+Frame  	Frame  	Total  	Shot                   	Map                    	DoF    	MBlur  	Total
+Number 	Time   	Time   	Name                   	Name                   	Count  	Count  	Count
+      0	  0.000	      0	shot1                 	black_void.bsp        	  256	    1	  256
+      1	  5.151	      5	shot1                 	black_void.bsp        	  256	    1	  256
+      2	  5.424	     11	shot1                 	black_void.bsp        	  256	    1	  256
+      3	  4.486	     15	shot1                 	black_void.bsp        	  256	    1	  256
+      4	  4.328	     19	shot1                 	black_void.bsp        	  256	    1	  256
+      5	  4.450	     24	shot1                 	black_void.bsp        	  256	    1	  256
+      6	  4.288	     28	shot1                 	black_void.bsp        	  256	    1	  256
+      7	  4.284	     32	shot1                 	black_void.bsp        	  256	    1	  256
+      8	  4.224	     37	shot1                 	black_void.bsp        	  256	    1	  256
+      9	  4.395	     41	shot1                 	black_void.bsp        	  256	    1	  256
+     10	  4.206	     45	shot1                 	black_void.bsp        	  256	    1	  256
+     11	  4.313	     50	shot1                 	black_void.bsp        	  256	    1	  256
+     12	  4.212	     54	shot1                 	black_void.bsp        	  256	    1	  256
+     13	  4.354	     58	shot1                 	black_void.bsp        	  256	    1	  256
+     14	  4.194	     62	shot1                 	black_void.bsp        	  256	    1	  256
+     15	  4.226	     67	shot1                 	black_void.bsp        	  256	    1	  256
+     16	  4.307	     71	shot1                 	black_void.bsp        	  256	    1	  256
+     17	  4.206	     75	shot1                 	black_void.bsp        	  256	    1	  256
+     18	  4.292	     79	shot1                 	black_void.bsp        	  256	    1	  256
+     19	  4.143	     83	shot1                 	black_void.bsp        	  256	    1	  256
+     20	  4.244	     88	shot1                 	black_void.bsp        	  256	    1	  256
+     21	  4.789	     93	shot1                 	black_void.bsp        	  256	    1	  256
+     22	  4.704	     97	shot1                 	black_void.bsp        	  256	    1	  256
+     23	  4.414	    102	shot1                 	black_void.bsp        	  256	    1	  256
+     24	  4.132	    106	shot1                 	black_void.bsp        	  256	    1	  256
+     25	  4.185	    110	shot1                 	black_void.bsp        	  256	    1	  256
+     26	  4.267	    114	shot1                 	black_void.bsp        	  256	    1	  256
+     27	  4.250	    118	shot1                 	black_void.bsp        	  256	    1	  256
+     28	  4.127	    123	shot1                 	black_void.bsp        	  256	    1	  256
+     29	  4.046	    127	shot1                 	black_void.bsp        	  256	    1	  256
+     30	  4.250	    131	shot1                 	black_void.bsp        	  256	    1	  256
+     31	  4.049	    135	shot1                 	black_void.bsp        	  256	    1	  256
+     32	  4.046	    139	shot1                 	black_void.bsp        	  256	    1	  256
+
+finished rendering 33 frames

@@ -1,0 +1,17 @@
+"C:\Program Files (x86)\Steam\steamapps\common\SourceFilmmaker\game\sfm.exe" +sv_lan 1 -sfm_resolution 1080 -w 1920 -h 1080 -useqtport -tools -dev -sw +mat_hdr_level 3 +mat_queue_mode 0 -game usermod -insecure
+
+c:\program files (x86)\steam\steamapps\common\sourcefilmmaker\game\usermod\elements\sessions\cpz\dlc\lvl1 tricksy towers.dmx#0
+
+1920x1080 @24.00 fps
+motion blur samples:    1
+depth of field samples: 256
+
+Frame  	Frame  	Total  	Shot                   	Map                    	DoF    	MBlur  	Total
+Number 	Time   	Time   	Name                   	Name                   	Count  	Count  	Count
+      1	  0.000	      0	shot1                 	black_void.bsp        	  256	    1	  256
+      2	 17.095	     17	shot1                 	black_void.bsp        	  256	    1	  256
+      3	 16.695	     34	shot1                 	black_void.bsp        	  256	    1	  256
+      4	 16.739	     51	shot1                 	black_void.bsp        	  256	    1	  256
+      5	 16.500	     67	shot1                 	black_void.bsp        	  256	    1	  256
+
+finished rendering 5 frames

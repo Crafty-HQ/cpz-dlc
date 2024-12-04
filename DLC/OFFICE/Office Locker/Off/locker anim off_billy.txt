@@ -1,0 +1,28 @@
+"C:\Program Files (x86)\Steam\steamapps\common\SourceFilmmaker\game\sfm.exe" +sv_lan 1 -sfm_resolution 1080 -w 1920 -h 1080 -useqtport -tools -dev -sw +mat_hdr_level 3 +mat_queue_mode 0 -game usermod -insecure
+
+c:\program files (x86)\steam\steamapps\common\sourcefilmmaker\game\usermod\elements\sessions\cpz\dlc\dlc office.dmx#0
+
+1920x1080 @24.00 fps
+motion blur samples:    128
+depth of field samples: 256
+
+Frame  	Frame  	Total  	Shot                   	Map                    	DoF    	MBlur  	Total
+Number 	Time   	Time   	Name                   	Name                   	Count  	Count  	Count
+      0	  0.000	      0	shot1                 	black_void.bsp        	  256	  128	  256
+      1	  8.319	      8	shot1                 	black_void.bsp        	  256	  128	  256
+      2	  8.822	     17	shot1                 	black_void.bsp        	  256	  128	  256
+      3	  8.202	     25	shot1                 	black_void.bsp        	  256	  128	  256
+      4	  8.161	     34	shot1                 	black_void.bsp        	  256	  128	  256
+      5	 11.887	     45	shot1                 	black_void.bsp        	  256	  128	  256
+      6	 10.111	     56	shot1                 	black_void.bsp        	  256	  128	  256
+      7	 10.078	     66	shot1                 	black_void.bsp        	  256	  128	  256
+      8	  9.334	     75	shot1                 	black_void.bsp        	  256	  128	  256
+      9	 10.354	     85	shot1                 	black_void.bsp        	  256	  128	  256
+     10	 11.960	     97	shot1                 	black_void.bsp        	  256	  128	  256
+     11	  9.545	    107	shot1                 	black_void.bsp        	  256	  128	  256
+     12	  9.540	    116	shot1                 	black_void.bsp        	  256	  128	  256
+     13	  9.491	    126	shot1                 	black_void.bsp        	  256	  128	  256
+     14	  9.919	    136	shot1                 	black_void.bsp        	  256	  128	  256
+     15	  8.973	    145	shot1                 	black_void.bsp        	  256	  128	  256
+
+finished rendering 16 frames

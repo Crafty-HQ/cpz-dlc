@@ -1,0 +1,36 @@
+"C:\Program Files (x86)\Steam\steamapps\common\SourceFilmmaker\game\sfm.exe" +sv_lan 1 -sfm_resolution 1080 -w 1920 -h 1080 -useqtport -tools -dev -sw +mat_hdr_level 3 +mat_queue_mode 0 -game usermod -insecure
+
+c:\program files (x86)\steam\steamapps\common\sourcefilmmaker\game\usermod\elements\sessions\cpz\dlc\lvl1 tricksy towers.dmx#0
+
+1920x1080 @24.00 fps
+motion blur samples:    128
+depth of field samples: 256
+
+Frame  	Frame  	Total  	Shot                   	Map                    	DoF    	MBlur  	Total
+Number 	Time   	Time   	Name                   	Name                   	Count  	Count  	Count
+      0	  0.000	      0	shot1                 	black_void.bsp        	  256	  128	  256
+      1	 22.296	     22	shot1                 	black_void.bsp        	  256	  128	  256
+      2	 20.594	     43	shot1                 	black_void.bsp        	  256	  128	  256
+      3	 20.426	     63	shot1                 	black_void.bsp        	  256	  128	  256
+      4	 20.655	     84	shot1                 	black_void.bsp        	  256	  128	  256
+      5	 20.809	    105	shot1                 	black_void.bsp        	  256	  128	  256
+      6	 20.579	    125	shot1                 	black_void.bsp        	  256	  128	  256
+      7	 20.440	    146	shot1                 	black_void.bsp        	  256	  128	  256
+      8	 20.467	    166	shot1                 	black_void.bsp        	  256	  128	  256
+      9	 20.559	    187	shot1                 	black_void.bsp        	  256	  128	  256
+     10	 20.425	    207	shot1                 	black_void.bsp        	  256	  128	  256
+     11	 20.550	    228	shot1                 	black_void.bsp        	  256	  128	  256
+     12	 20.372	    248	shot1                 	black_void.bsp        	  256	  128	  256
+     13	 21.906	    270	shot1                 	black_void.bsp        	  256	  128	  256
+     14	 24.220	    294	shot1                 	black_void.bsp        	  256	  128	  256
+     15	 22.530	    317	shot1                 	black_void.bsp        	  256	  128	  256
+     16	 20.739	    338	shot1                 	black_void.bsp        	  256	  128	  256
+     17	 20.602	    358	shot1                 	black_void.bsp        	  256	  128	  256
+     18	 20.375	    379	shot1                 	black_void.bsp        	  256	  128	  256
+     19	 20.443	    399	shot1                 	black_void.bsp        	  256	  128	  256
+     20	 20.554	    420	shot1                 	black_void.bsp        	  256	  128	  256
+     21	 20.694	    440	shot1                 	black_void.bsp        	  256	  128	  256
+     22	 20.611	    461	shot1                 	black_void.bsp        	  256	  128	  256
+     23	 20.627	    481	shot1                 	black_void.bsp        	  256	  128	  256
+
+finished rendering 24 frames
