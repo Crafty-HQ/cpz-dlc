@@ -1,0 +1,23 @@
+"C:\Program Files (x86)\Steam\steamapps\common\SourceFilmmaker\game\sfm.exe" +sv_lan 1 -sfm_resolution 1080 -w 1920 -h 1080 -useqtport -tools -dev -sw +mat_hdr_level 3 +mat_queue_mode 0 -game usermod -insecure
+
+c:\program files (x86)\steam\steamapps\common\sourcefilmmaker\game\usermod\elements\sessions\cpz\office.dmx#0
+
+1920x1080 @24.00 fps
+motion blur samples:    1
+depth of field samples: 256
+
+Frame  	Frame  	Total  	Shot                   	Map                    	DoF    	MBlur  	Total
+Number 	Time   	Time   	Name                   	Name                   	Count  	Count  	Count
+      0	  0.000	      0	shot1                 	black_void.bsp        	  256	    1	  256
+      1	  6.082	      6	shot1                 	black_void.bsp        	  256	    1	  256
+      2	  6.008	     12	shot1                 	black_void.bsp        	  256	    1	  256
+      3	  6.086	     18	shot1                 	black_void.bsp        	  256	    1	  256
+      4	  5.894	     24	shot1                 	black_void.bsp        	  256	    1	  256
+      5	  6.240	     30	shot1                 	black_void.bsp        	  256	    1	  256
+      6	  6.541	     37	shot1                 	black_void.bsp        	  256	    1	  256
+      7	  5.969	     43	shot1                 	black_void.bsp        	  256	    1	  256
+      8	  6.089	     49	shot1                 	black_void.bsp        	  256	    1	  256
+      9	  5.925	     55	shot1                 	black_void.bsp        	  256	    1	  256
+     10	  5.898	     61	shot1                 	black_void.bsp        	  256	    1	  256
+
+finished rendering 11 frames
