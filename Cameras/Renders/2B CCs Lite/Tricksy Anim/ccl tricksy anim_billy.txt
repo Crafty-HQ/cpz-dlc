@@ -1,0 +1,16 @@
+"C:\Program Files (x86)\Steam\steamapps\common\SourceFilmmaker\game\sfm.exe" +sv_lan 1 -sfm_resolution 1080 -w 1920 -h 1080 -useqtport -tools -dev -sw +mat_hdr_level 3 +mat_queue_mode 0 -game usermod -insecure
+
+c:\program files (x86)\steam\steamapps\common\sourcefilmmaker\game\usermod\elements\sessions\cpz\cameras\2b ccs lite.dmx#0
+
+1920x1080 @24.00 fps
+motion blur samples:    1
+depth of field samples: 256
+
+Frame  	Frame  	Total  	Shot                   	Map                    	DoF    	MBlur  	Total
+Number 	Time   	Time   	Name                   	Name                   	Count  	Count  	Count
+      0	  0.000	      0	shot1                 	black_void.bsp        	  256	    1	  256
+      1	 20.695	     21	shot1                 	black_void.bsp        	  256	    1	  256
+      2	 21.103	     42	shot1                 	black_void.bsp        	  256	    1	  256
+      3	 23.408	     65	shot1                 	black_void.bsp        	  256	    1	  256
+
+finished rendering 4 frames
