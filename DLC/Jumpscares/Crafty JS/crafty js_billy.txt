@@ -1,0 +1,36 @@
+"C:\Program Files (x86)\Steam\steamapps\common\SourceFilmmaker\game\sfm.exe" +sv_lan 1 -sfm_resolution 1080 -w 1920 -h 1080 -useqtport -tools -dev -sw +mat_hdr_level 3 +mat_queue_mode 0 -game usermod -insecure
+
+c:\program files (x86)\steam\steamapps\common\sourcefilmmaker\game\usermod\elements\sessions\cpz\dlc\dlc jumpscares.dmx#0
+
+1920x1080 @24.00 fps
+motion blur samples:    128
+depth of field samples: 256
+
+Frame  	Frame  	Total  	Shot                   	Map                    	DoF    	MBlur  	Total
+Number 	Time   	Time   	Name                   	Name                   	Count  	Count  	Count
+      0	  0.000	      0	shot1                 	black_void.bsp        	  256	  128	  256
+      1	 10.852	     11	shot1                 	black_void.bsp        	  256	  128	  256
+      2	 11.293	     22	shot1                 	black_void.bsp        	  256	  128	  256
+      3	 11.511	     34	shot1                 	black_void.bsp        	  256	  128	  256
+      4	 10.266	     44	shot1                 	black_void.bsp        	  256	  128	  256
+      5	 10.143	     54	shot1                 	black_void.bsp        	  256	  128	  256
+      6	 10.246	     64	shot1                 	black_void.bsp        	  256	  128	  256
+      7	 10.318	     75	shot1                 	black_void.bsp        	  256	  128	  256
+      8	 10.151	     85	shot1                 	black_void.bsp        	  256	  128	  256
+      9	 10.122	     95	shot1                 	black_void.bsp        	  256	  128	  256
+     10	 10.002	    105	shot1                 	black_void.bsp        	  256	  128	  256
+     11	 11.654	    117	shot1                 	black_void.bsp        	  256	  128	  256
+     12	  9.518	    126	shot1                 	black_void.bsp        	  256	  128	  256
+     13	  9.479	    136	shot1                 	black_void.bsp        	  256	  128	  256
+     14	  9.291	    145	shot1                 	black_void.bsp        	  256	  128	  256
+     15	  9.310	    154	shot1                 	black_void.bsp        	  256	  128	  256
+     16	 10.170	    164	shot1                 	black_void.bsp        	  256	  128	  256
+     17	 10.030	    174	shot1                 	black_void.bsp        	  256	  128	  256
+     18	 10.082	    184	shot1                 	black_void.bsp        	  256	  128	  256
+     19	 10.254	    195	shot1                 	black_void.bsp        	  256	  128	  256
+     20	 10.041	    205	shot1                 	black_void.bsp        	  256	  128	  256
+     21	  9.928	    215	shot1                 	black_void.bsp        	  256	  128	  256
+     22	 10.074	    225	shot1                 	black_void.bsp        	  256	  128	  256
+     23	 10.658	    235	shot1                 	black_void.bsp        	  256	  128	  256
+
+finished rendering 24 frames
